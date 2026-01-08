@@ -19,8 +19,5 @@
   <br>  
   📚 I’m currently teaching into CS courses at College.
   <br>
-   📧 How to reach me: <a href="mailto: pamirkhan11@gmail.com">pamirkhan11@gmail.com</a>
-  <br><br>
-  📍 <b>Quetta, 🇵🇰</b>
 </p>
 
