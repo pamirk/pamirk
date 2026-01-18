@@ -17,7 +17,7 @@
   <br>
    I love writing 🧑🏻‍💻 and learn anythings about it
   <br>  
-  📚 I’m currently teaching into CS courses at College.
+  📚 I’m currently teaching into CS courses at Science College.
   <br>
 </p>
 
